@@ -1,10 +1,10 @@
-Written on 2025-10-22
+Written on [[2025-10-22]]
 
-Status as of 2025-10-22:
+Status as of [[2025-10-22]]:
 ### TEMPORARILY        SUSPENDED.
 
 These documentations are based on the file *learn.py* on the *crymson@Atreidies* system placed in *~/note/python/grid*
-uThe tools used for this experiment are as follows:
+The tools used for this experiment are as follows:
 
 1. The [[Atreidies Computer System]]
 2. The [[pygame graphics library]]
