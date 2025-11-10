@@ -1,6 +1,6 @@
 #long_list 
 
-- [ ] need a way to sync obsidian on phone and nvim on pc - git sync
+- [x] need a way to sync obsidian on phone and nvim on pc - git sync
 - [ ] see if i need to do anymore ricing
 - [ ] fix the formatting with the css by setting container width to 100% when screen is too narrow 
 - [ ] find a good definition for what an experiment means
