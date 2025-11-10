@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/Studying of Mathematics.md",
+                "file": "wizard tower/Understanding Analysis - Stephen Abbott.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Studying of Mathematics"
+              "title": "Understanding Analysis - Stephen Abbott"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "4986b500e82e823a",
   "lastOpenFiles": [
-    "wizard tower/Understanding Analysis - Stephen Abbott.md",
     "wizard tower/Studying of Mathematics.md",
+    "wizard tower/Understanding Analysis - Stephen Abbott.md",
     "wizard tower/Experiments.md",
     "wizard tower/Learning of Computer Assisted Design.md",
     "journal/2025-11-06.md",
