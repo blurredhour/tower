@@ -1,4 +1,4 @@
-#long_list 
+[[list]]
 
 - [x] need a way to sync obsidian on phone and nvim on pc - git sync
 - [x] see if i need to do anymore ricing

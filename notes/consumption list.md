@@ -1,4 +1,4 @@
-#long_list 
+[[list]]
 
 - [ ] Lord of the Mysteries
 - [ ] Shadow Slave
