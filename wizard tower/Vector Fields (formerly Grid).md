@@ -4,14 +4,11 @@ Status as of [[2025-10-22]]:
 ### TEMPORARILY        SUSPENDED.
 
 These documentations are based on the file *learn.py* on the *crymson@Atreidies* system placed in *~/note/python/grid*
-
-The tools used for this experiment are as follows:
+uThe tools used for this experiment are as follows:
 
 1. The [[Atreidies Computer System]]
 2. The [[pygame graphics library]]
 3. The [[Python Programming Language]]
-
-
 
 The goal of this experiment was to draw a grid using the [[pygame graphics library]] to be used for other projects. The initial goal of this experiment has been fulfilled but the goal was further expanded to rendering vector fields. The rendering of the vectors have also been completed but lack customizability. The issues will be further expanded upon in the vectors section. The current goal is to be able to make customizable vector fields.
 
