@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-11-10.md",
+                "file": "wizard tower/Vector Fields (formerly Grid).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "Vector Fields (formerly Grid)"
             }
           },
           {
@@ -167,8 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c54f7f3f496cbc5e",
+  "active": "b12fbc760734fcd2",
   "lastOpenFiles": [
+    "journal/2025-11-10.md",
     "/wizard tower/Vector Fields (formerly Grid).md",
     "/wizard tower",
     "wizard tower/Ambidexterity.md",
@@ -176,7 +177,6 @@
     "notes/rough.md",
     "notes/consumption list.md",
     "notes/big want list.md",
-    "journal/2025-11-10.md",
     "wizard tower/Vector Fields (formerly Grid).md",
     "wizard tower/Studying of Mathematics.md",
     "wizard tower/Observed Objects.md",
