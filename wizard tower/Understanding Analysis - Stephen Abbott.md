@@ -29,4 +29,31 @@ $$
 
 now this proves that <i>q<sup>2</sup></i> is even, even though at the start we said that there were no common factors between *p* and *q*. according to the book this means that the square root of 2 is irrational but how??
 
+the natural numbers are the normal numbers from *1* to *infinity* 
+$$
+\mathbb{N} = \{1,2,3,4,5,\dots\}
+$$
+now with the natural numbers math can be done perfectly well but in order to do subtraction you need to extend it to the integers which go from *negative infinity* to *positive infinity*. which are called the integers.
+$$
+\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3,\dots\}
+$$
+now this allows you to do subtractions as you have the necessary additive inverses  and allows you to have an **additive identity(which means that any number added to this is equal to itself)** which is *0* and *1* can act as the **multiplicative identity(any number multiplied by this is equal to the number itself)**.  but in order to do division you need the necessary multiplicative inverses thus the numbers are extended to the rational numbers where:
+$$
+\mathbb{Q}=\{\}
+$$
+all fractions *p/q* where *p* and *q* are integers and *q is != to 0*
 
+A field is any set where addition and multiplication are well-defined operations that are commutative, associative, and obey the familiar distributive property :
+$$
+a(b+c) = ab+ ac
+$$
+There must be an additive identity and every element must have an additive inverse and multiplicative inverses must exist for all nonzero elements of the field 
+
+Set **Q** also has a natural order defined on it. Given any two rational numbers *r* and *s*, exactly one of the following is true:
+$$
+r < s, \space r = s, \space r>s
+$$
+now if:
+$$
+r<s \space \cap s<t \therefore  r<t  
+$$
