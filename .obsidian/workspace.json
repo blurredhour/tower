@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d0d5ccaf32722d",
+        "id": "b4d6e022fb853e25",
         "type": "tabs",
         "children": [
           {
-            "id": "4986b500e82e823a",
+            "id": "bc945c6eddc5fc8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wizard tower/Understanding Analysis - Stephen Abbott.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Understanding Analysis - Stephen Abbott"
+              "title": "New tab"
             }
           }
         ]
@@ -181,10 +177,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4986b500e82e823a",
+  "active": "bc945c6eddc5fc8d",
   "lastOpenFiles": [
-    "wizard tower/Studying of Mathematics.md",
+    "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
+    "wizard tower/Ambidexterity.md",
     "wizard tower/Understanding Analysis - Stephen Abbott.md",
+    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Experiments.md",
     "wizard tower/Learning of Computer Assisted Design.md",
     "journal/2025-11-06.md",
@@ -202,12 +200,10 @@
     "notes/rough.md",
     "notes/consumption list.md",
     "notes/big want list.md",
-    "wizard tower/Ambidexterity.md",
     "wizard tower/Analysis of the Night Sky.md",
     "wizard tower/Best Night Sky Objects.md",
     "wizard tower/Observed Objects.md",
     "wizard tower/Vector Fields (formerly Grid).md",
-    "notes/blurt.md",
-    "journal/2025-10-27.md"
+    "notes/blurt.md"
   ]
 }
