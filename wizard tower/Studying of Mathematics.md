@@ -1,6 +1,6 @@
-Written on [[2025-11-04]]
+Written on 2025-11-04
 
-Status as of [[2025-11-04]]:
+Status as of 2025-11-04:
 ### ONGOING 
 
 The goal of this experiment is to be able to understand advanced concepts in mathematics in a comprehensive way.

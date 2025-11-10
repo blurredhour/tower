@@ -1,4 +1,4 @@
-#long_list
+[[list]]
 
 - [ ] 8" Dobsonian
 - [ ] 10x50 Binoculars 

@@ -1,6 +1,6 @@
-Written on [[2025-10-27]]
+Written on 2025-10-27
 
-Status as of [[2025-10-27]]:
+Status as of 2025-10-27:
 ### ONGOING
 
 The goal of this experiment is to observe all of the celestial objects that tho tower master wishes to see. These are is the [[Best Night Sky Objects]] list.
