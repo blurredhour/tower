@@ -178,8 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99063a1875b28f12",
+  "active": "c54f7f3f496cbc5e",
   "lastOpenFiles": [
+    "/wizard tower/Ambidexterity.md",
+    "/wizard tower",
+    "/notes/TODO.md",
+    "/notes",
     "README.md",
     "cooc.md",
     "journal/2025-11-10.md",
@@ -204,8 +208,6 @@
     "notes/forgotten.md",
     "journal/2025-11-04.md",
     "journal/2025-11-03.md",
-    "journal/2025-10-28.md",
-    "journal/2025-10-23.md",
     "wizard tower",
     "notes",
     "journal",
@@ -213,8 +215,6 @@
     "school./ts/fts",
     "school./ts/dt",
     "school./science/biology",
-    "school./science/chemistry",
-    "school./science/physics",
-    "school./bee/business"
+    "school./science/chemistry"
   ]
 }
