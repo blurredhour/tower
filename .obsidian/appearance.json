@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Sanctum",
   "accentColor": "#7258b8",
   "interfaceFontFamily": "Monaco",
   "textFontFamily": "Monaco",
-  "monospaceFontFamily": "Monaco"
+  "monospaceFontFamily": "Monaco",
+  "theme": "obsidian"
 }
