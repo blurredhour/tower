@@ -3,4 +3,4 @@
 - [[Ambidexterity]]
 - [[Learning of Computer Assisted Design]]
 - [[Studying of Mathematics]]
-- 
+- [[Improving Charisma]]
