@@ -4,7 +4,13 @@ How to conclude that the square root of 2 is irrational?
 
 if we assume that p and q are integers without any common factors and if there are any common factors then they have been factored out.
 
-*(p/q)^2 = 2*
+$$
+
+\left (\frac{p}{q} \right)^2 = 2 
+
+\frac
+
+$$
 
 p^2/q^2 = 2
 
