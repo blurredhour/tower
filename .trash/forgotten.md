@@ -1,0 +1,4 @@
+- [ ] trimmer charger 
+- [ ] platinum chain
+- [ ] platinum earring 
+- [ ] 

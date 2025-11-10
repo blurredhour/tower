@@ -1,0 +1,24 @@
+#long_list
+
+- [ ] 8" Dobsonian
+- [ ] 10x50 Binoculars 
+- [ ] 12x60 binoculars 
+- [ ] Lamy Safari
+- [ ] Rotring 600
+- [ ] Old Thinkpad
+- [ ] Star Atlas
+- [ ] Red light
+- [ ] Tripod 
+- [ ] Binoculars adapter
+- [ ] compass
+- [ ] nothing phone
+- [ ] kindle
+- [ ] Raspberry Pi
+- [ ] Minimal bracelet 
+- [ ] phone adapter 
+- [ ] 4.5" concave mirror
+- [ ] casio F91W 
+- [ ] electric vernier caliper 
+- [ ] monitor
+- [ ] koss porta pros
+- [ ] KBear ks1
