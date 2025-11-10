@@ -22,4 +22,7 @@
 - learn how to build apps
 - fast delivery for groceries 
 - research about the olympus camera
+- violin
+- bass
+- piano
 
