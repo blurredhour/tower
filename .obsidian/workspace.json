@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Understanding Analysis - Stephen Abbott"
             }
+          },
+          {
+            "id": "e9f56d4863fb311d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e9f56d4863fb311d",
   "lastOpenFiles": [
-    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Understanding Analysis - Stephen Abbott.md",
+    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Learning of Computer Assisted Design.md",
     "wizard tower/Experiments.md",
     "wizard tower/Learning of LaTex.md",

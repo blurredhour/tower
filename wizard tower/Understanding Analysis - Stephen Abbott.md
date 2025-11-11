@@ -44,7 +44,8 @@ $$
 $$
 now this allows you to do subtractions as you have the necessary additive inverses  and allows you to have an **additive identity(which means that any number added to this is equal to itself)** which is $0$ and $1$ can act as the **multiplicative identity(any number multiplied by this is equal to the number itself)**.  but in order to do division you need the necessary multiplicative inverses thus the numbers are extended to the rational numbers where:
 $$
-\mathbb{Q}=\{\text{all fractions }\frac{p}{q}\text{ where p an q are integers}\}
+
+\mathbb{Q}=\{\text{all fractions }\frac{p}{q}\text{ where p an q are integers and }p \neq 0\}
 $$
 all fractions *p/q* where *p* and *q* are integers and *q is != to 0*
 
@@ -60,5 +61,5 @@ r < s, \space r = s, \space r>s
 $$
 now if:
 $$
-r<s \space \& \space s<t \therefore  r<t  
+r<s \text{ and } s<t \text{ then }  r<t  
 $$
