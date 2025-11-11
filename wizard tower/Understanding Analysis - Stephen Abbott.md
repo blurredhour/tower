@@ -1,3 +1,4 @@
+Tags: [[learning]] [[maths]]
 ## 1.1
 
 How to conclude that the square root of 2 is irrational?
