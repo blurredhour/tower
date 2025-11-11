@@ -24,7 +24,7 @@ $$
 4r^2 = 2q^2
 $$
 $$
-2r^2 = 2q^2
+2r^2 = q^2
 $$
 
 now this proves that <i>q<sup>2</sup></i> is even, even though at the start we said that there were no common factors between *p* and *q*. according to the book this means that the square root of 2 is irrational but how??
@@ -55,5 +55,5 @@ r < s, \space r = s, \space r>s
 $$
 now if:
 $$
-r<s \space \cap s<t \therefore  r<t  
+r<s \space \& \space s<t \therefore  r<t  
 $$
