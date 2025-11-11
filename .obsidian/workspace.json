@@ -213,7 +213,7 @@
         "y": 43,
         "width": 1344,
         "height": 714,
-        "maximize": true,
+        "maximize": false,
         "zoom": 1.5
       }
     ]

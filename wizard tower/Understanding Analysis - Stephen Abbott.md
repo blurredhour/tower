@@ -63,4 +63,10 @@ now if:
 $$
 r<s \text{ and } s<t \text{ then }  r<t  
 $$
-given any 2 rational numbers $r<s$, the rational number $\frac{r+s}{2}$ sits halfway between them.
+given any 2 rational numbers $r<s$, the rational number $\frac{r+s}{2}$ sits halfway between them. 
+
+$$
+\mathbb{N} \subseteq \mathbb{Z} \subseteq \mathbb{Q}
+$$
+what is the definition of $\mathbb{R}$?
+
