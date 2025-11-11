@@ -1,3 +1,5 @@
+Tags: [[learning]] [[maths]]
+
 Written on 2025-11-04
 
 Status as of 2025-11-04:

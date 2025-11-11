@@ -1,3 +1,5 @@
+Tags: [[learning]] 
+
 Written on 2025-11-03
 
 Status as of 2025-11-03:

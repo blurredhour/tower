@@ -1,3 +1,5 @@
+Tags: [[learning]] [[astronomy]]
+
 Written on 2025-10-27
 
 Status as of 2025-10-27:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/Experiments.md",
+                "file": "wizard tower/Understanding Analysis - Stephen Abbott.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experiments"
+              "title": "Understanding Analysis - Stephen Abbott"
             }
           }
         ]
@@ -158,24 +158,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c54f7f3f496cbc5e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "wizard tower/Understanding Analysis - Stephen Abbott.md",
-    "wizard tower/Experiments.md",
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf",
+    "wizard tower/Studying of Mathematics.md",
+    "resources",
+    "wizard tower/Ambidexterity.md",
+    "wizard tower/Analysis of the Night Sky.md",
+    "wizard tower/Best Night Sky Objects.md",
+    "wizard tower/Observed Objects.md",
+    "wizard tower/Vector Fields (formerly Grid).md",
+    "wizard tower/Understanding Analysis - Stephen Abbott.md",
+    "wizard tower/Learning of Computer Assisted Design.md",
+    "wizard tower/Experiments.md",
+    "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf",
     "notes/rough.md",
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "/wizard tower/Understanding Analysis - Stephen Abbott.md",
     "/wizard tower",
     "notes/big want list.md",
-    "wizard tower/Analysis of the Night Sky.md",
-    "wizard tower/Vector Fields (formerly Grid).md",
-    "wizard tower/Studying of Mathematics.md",
-    "wizard tower/Observed Objects.md",
-    "wizard tower/Learning of Computer Assisted Design.md",
-    "wizard tower/Best Night Sky Objects.md",
-    "wizard tower/Ambidexterity.md",
     "journal/2025-11-10.md",
     "/wizard tower/Learning of Computer Assisted Design.md",
     "/wizard tower/Experiments.md",
@@ -193,7 +195,6 @@
     "wizard tower",
     "notes",
     "journal",
-    "school./art",
-    "school./ts/fts"
+    "school./art"
   ]
 }

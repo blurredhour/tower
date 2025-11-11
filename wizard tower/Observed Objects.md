@@ -1,3 +1,5 @@
+Tags: [[astronomy]] [[list]]
+
 - [[Saturn]]
 - [[Mercury]]
 - [[Moon]]
