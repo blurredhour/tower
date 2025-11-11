@@ -1,6 +1,8 @@
 Tags: [[learning]] [[maths]]
 
 ![[[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf]]
+
+Written on 2025-11-10
 ## 1.1
 
 How to conclude that the square root of 2 is irrational?
