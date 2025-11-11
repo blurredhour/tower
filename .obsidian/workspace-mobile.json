@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/rough.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/Calculus Made Easy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "rough"
+              "icon": "lucide-file-text",
+              "title": "Calculus Made Easy"
             }
           }
         ]
@@ -160,6 +158,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "notes/rough.md",
+    "resources/Calculus Made Easy.pdf",
+    "/wizard tower/Studying of Mathematics.md",
+    "/wizard tower/Learning of LaTex.md",
+    "/wizard tower/Experiments.md",
+    "/resources/Calculus Made Easy.pdf",
+    "resources/Understanding Analysis.pdf",
+    "/resources/Understanding Analysis.pdf",
+    "/resources",
     "wizard tower/Experiments.md",
     "/wizard tower/Understanding Analysis - Stephen Abbott.md",
     "/wizard tower",
@@ -176,24 +183,15 @@
     "wizard tower/Vector Fields (formerly Grid).md",
     "wizard tower/Learning of Computer Assisted Design.md",
     "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf",
-    "notes/rough.md",
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
-    "/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "journal/2025-11-10.md",
     "/wizard tower/Learning of Computer Assisted Design.md",
-    "/wizard tower/Experiments.md",
     "/wizard tower/Vector Fields (formerly Grid).md",
     "notes/TODO.md",
     "notes/consumption list.md",
     "/notes/consumption list.md",
     "/notes/TODO.md",
-    "/notes",
     "journal/2025-10-22.md",
-    "/wizard tower/Ambidexterity.md",
-    "README.md",
-    "cooc.md",
-    "wizard tower",
-    "notes",
-    "journal"
+    "/wizard tower/Ambidexterity.md"
   ]
 }
