@@ -1,6 +1,6 @@
 Tags: [[learning]] [[maths]]
 
-![[[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf]]
+![[Understanding Analysis.pdf]]
 
 Written on 2025-11-10
 ## 1.1
@@ -70,7 +70,20 @@ what is the definition of $\mathbb{R}$?
 
 ## 1.2
 
-A *set* is any collection of objects.These objects are referred to as the *elements of a set*. Given a set $A$, we write $x \in A$ if $x$ is is an element of $A$. If $x$ is not an element of $A$, then we write $x \notin A$. Given two set $A$ and $B$ the *union* is written $A \cup B$. 
+A *set* is any collection of objects.These objects are referred to as the *elements of a set*. Given a set $A$, we write $x \in A$ if $x$ is is an element of $A$. If $x$ is not an element of $A$, then we write $x \notin A$.
+
+Given two sets $A$ and $B$ the *union* is written $A \cup B$. 
 $$
 x \in A \cup B \text{ provided that } x \in A \text{ or } x \in B \text{ (or potentially both.)} 
 $$
+The intersection $A \cap B$ is  a set defined by the rule
+$$
+x \in A \cap B \text{ provided } x \in A \text{ and } x \in B  
+$$
+There are many acceptable ways to assert the contents of a set:
+
+1. It can be defined by listing the elements in the set: $\mathbb{N} = \{1,2,3,\dots\}$
+2. Sets can also be defined in words. For instance, let the set $E$ be the collection of even natural numbers.
+3. Sometimes it is more efficient to provide a kind of rule or algorithm for determining the elements of a set for example $S=\{r \in \mathbb{Q}:r^2<2\}$. Read aloud the definition of $S$ says "Let $S$ be the set of all rational numbers but whose squares are less then 2." It follows that $1 \in S
+4. 
+5. 

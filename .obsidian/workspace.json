@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wizard tower/Understanding Analysis - Stephen Abbott.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/Calculus Made Easy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Understanding Analysis - Stephen Abbott"
+              "icon": "lucide-file-text",
+              "title": "Calculus Made Easy"
             }
           }
         ]
@@ -181,51 +179,16 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "5c7172df249d91b4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "abe0e8b67883caea",
-        "type": "window",
-        "children": [
-          {
-            "id": "4c279423a6d5bec7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e9f56d4863fb311d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 11,
-        "y": 43,
-        "width": 1344,
-        "height": 714,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf",
-    "wizard tower/Understanding Analysis - Stephen Abbott.md",
-    "wizard tower/Studying of Mathematics.md",
-    "wizard tower/Learning of Computer Assisted Design.md",
-    "wizard tower/Experiments.md",
     "wizard tower/Learning of LaTex.md",
+    "resources/Calculus Made Easy.pdf",
+    "wizard tower/Studying of Mathematics.md",
+    "wizard tower/Observed Objects.md",
+    "wizard tower/Experiments.md",
+    "wizard tower/Understanding Analysis - Stephen Abbott.md",
+    "resources/Understanding Analysis.pdf",
+    "wizard tower/Learning of Computer Assisted Design.md",
     "resources",
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "wizard tower/Ambidexterity.md",
@@ -246,7 +209,6 @@
     "notes/big want list.md",
     "wizard tower/Analysis of the Night Sky.md",
     "wizard tower/Best Night Sky Objects.md",
-    "wizard tower/Observed Objects.md",
     "wizard tower/Vector Fields (formerly Grid).md"
   ]
 }
