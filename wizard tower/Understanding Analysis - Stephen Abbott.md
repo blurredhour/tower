@@ -80,3 +80,10 @@ The intersection $A \cap B$ is  a set defined by the rule
 $$
 x \in A \cap B \text{ provided } x \in A \text{ and } x \in B  
 $$
+There are many acceptable ways to assert the contents of a set:
+
+1. It can be defined by listing the elements in the set: $\mathbb{N} = \{1,2,3,\dots\}$
+2. Sets can also be defined in words. For instance, let the set $E$ be the collection of even natural numbers.
+3. Sometimes it is more efficient to provide a kind of rule or algorithm for determining the elements of a set for example $S=\{r \in \mathbb{Q}:r^2<2\}$. Read aloud the definition of $S$ says "Let $S$ be the set of all rational numbers but whose squares are less then 2." It follows that $1 \in S
+4. 
+5. 
