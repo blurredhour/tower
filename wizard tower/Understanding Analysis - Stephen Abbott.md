@@ -47,8 +47,6 @@ $$
 
 \mathbb{Q}=\{\text{all fractions }\frac{p}{q}\text{ where p an q are integers and }p \neq 0\}
 $$
-all fractions *p/q* where *p* and *q* are integers and *q is != to 0*
-
 A field is any set where addition and multiplication are well-defined operations that are commutative, associative, and obey the familiar distributive property :
 $$
 a(b+c) = ab+ ac
@@ -72,4 +70,4 @@ what is the definition of $\mathbb{R}$?
 
 ## 1.2
 
-A set is any collection of objects
+A *set* is any collection of objects.These objects are referred to as the *elements of a set*. 
