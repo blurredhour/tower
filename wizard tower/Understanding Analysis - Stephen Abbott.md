@@ -63,3 +63,4 @@ now if:
 $$
 r<s \text{ and } s<t \text{ then }  r<t  
 $$
+given any 2 rational numbers $r<s$, the rational number $\frac{r+s}{2}$ sits halfway between them.
