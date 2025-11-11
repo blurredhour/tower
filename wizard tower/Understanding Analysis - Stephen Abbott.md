@@ -44,7 +44,7 @@ $$
 $$
 now this allows you to do subtractions as you have the necessary additive inverses  and allows you to have an **additive identity(which means that any number added to this is equal to itself)** which is $0$ and $1$ can act as the **multiplicative identity(any number multiplied by this is equal to the number itself)**.  but in order to do division you need the necessary multiplicative inverses thus the numbers are extended to the rational numbers where:
 $$
-\mathbb{Q}=\{\}
+\mathbb{Q}=\{\text{all fractions }\frac{p}{q}\text{ where p an q are integers}\}
 $$
 all fractions *p/q* where *p* and *q* are integers and *q is != to 0*
 
