@@ -17,7 +17,7 @@ $$
 $$
 p^2 = 2q^2
 $$
-now this states that *p<sup><i>2</i></sup>*  is an even number and as that square root of an even number is always even then that means that *p* is also even. now if we write that
+now this states that  is an even number and as that square root of an even number is always even then that means that *p* is also even. now if we write that
 $$
 p = 2r
 $$
