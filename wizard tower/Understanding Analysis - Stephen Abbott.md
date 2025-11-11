@@ -70,3 +70,6 @@ $$
 $$
 what is the definition of $\mathbb{R}$?
 
+## 1.2
+
+A set is any collection of objects
