@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5748bc60bb01975d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "b4d6e022fb853e25",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc945c6eddc5fc8d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wizard tower/Experiments.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Experiments"
             }
           }
         ]
@@ -177,7 +181,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc945c6eddc5fc8d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "wizard tower/Ambidexterity.md",
