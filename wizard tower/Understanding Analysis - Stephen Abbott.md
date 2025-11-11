@@ -70,7 +70,13 @@ what is the definition of $\mathbb{R}$?
 
 ## 1.2
 
-A *set* is any collection of objects.These objects are referred to as the *elements of a set*. Given a set $A$, we write $x \in A$ if $x$ is is an element of $A$. If $x$ is not an element of $A$, then we write $x \notin A$. Given two set $A$ and $B$ the *union* is written $A \cup B$. 
+A *set* is any collection of objects.These objects are referred to as the *elements of a set*. Given a set $A$, we write $x \in A$ if $x$ is is an element of $A$. If $x$ is not an element of $A$, then we write $x \notin A$.
+
+Given two sets $A$ and $B$ the *union* is written $A \cup B$. 
 $$
 x \in A \cup B \text{ provided that } x \in A \text{ or } x \in B \text{ (or potentially both.)} 
+$$
+The intersection $A \cap B$ is  a set defined by the rule
+$$
+x \in A \cap B \text{ provided } x \in A \text{ and } x \in B  
 $$
