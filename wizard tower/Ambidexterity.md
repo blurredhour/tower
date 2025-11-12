@@ -11,3 +11,4 @@ These specific activities include:
 
 - Brushing teeth
 - Writing
+- Eating 
