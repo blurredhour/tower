@@ -25,5 +25,6 @@
 - violin
 - bass
 - piano
-- shalom
+- shalom harlow
+- KiCAD
 

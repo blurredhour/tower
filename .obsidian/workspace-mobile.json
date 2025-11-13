@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rough.md",
+                "file": "notes/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rough"
+              "title": "TODO"
             }
           }
         ]
@@ -160,20 +160,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "wizard tower/Experiments.md",
-    "notes/big want list.md",
-    "notes/rough.md",
-    "wizard tower/Ambidexterity.md",
-    "resources/Calculus Made Easy.pdf",
+    "wizard tower/Mathematics Practice.md",
     "/wizard tower/Studying of Mathematics.md",
+    "/wizard tower/Mathematics Practice.md",
     "/wizard tower/Learning of LaTex.md",
+    "/wizard tower",
+    "resources/Calculus Made Easy.pdf",
+    "resources/Understanding Analysis.pdf",
+    "wizard tower/Experiments.md",
+    "notes/rough.md",
+    "notes/big want list.md",
+    "wizard tower/Ambidexterity.md",
     "/wizard tower/Experiments.md",
     "/resources/Calculus Made Easy.pdf",
-    "resources/Understanding Analysis.pdf",
     "/resources/Understanding Analysis.pdf",
     "/resources",
     "/wizard tower/Understanding Analysis - Stephen Abbott.md",
-    "/wizard tower",
     "wizard tower/Understanding Analysis - Stephen Abbott.md",
     "wizard tower/Studying of Mathematics.md",
     "wizard tower/Learning of LaTex.md",
@@ -193,7 +195,6 @@
     "notes/consumption list.md",
     "/notes/consumption list.md",
     "/notes/TODO.md",
-    "journal/2025-10-22.md",
-    "/wizard tower/Ambidexterity.md"
+    "journal/2025-10-22.md"
   ]
 }
