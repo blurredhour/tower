@@ -20,5 +20,4 @@
 - [ ] casio F91W 
 - [ ] electric vernier caliper 
 - [ ] monitor
-- [ ] koss porta pros
 - [ ] https://www.amazon.in/KS1-Headphones-Resolution-Detachable-Auriculares/dp/B08TWQ3TR7/ref=mp_s_a_1_2?crid=3KX0S7NHDBG5Y&dib=eyJ2IjoiMSJ9.h5LSLx0XLE09ZGEJ6Lvyn0t71zV2ww5kS5xSXGQiy95tnDsAxLQsCq-238Qq4HXqMHlo4UsWavesb7aLqTrGEOKPggTuHKSzzhybZIWitD_itC4C1dmZThTb4YT_06ctBSRTL3WzL64q2Dk6HQFcr5O76dqXU-9S-odbcf-VsKDQxrbMriWf2uBER6UEy-IjSFTG6K-I5Z3toEOtG3U4hQ.d1FwphaVQm2esa656o5HQaI2MiFh7hodNokoKhArs_E&dib_tag=se&keywords=kbears&nsdOptOutParam=true&qid=1762954532&sprefix=%2Caps%2C309&sr=8-2

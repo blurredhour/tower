@@ -26,5 +26,6 @@
 - bass
 - piano
 - shalom harlow
-- KiCAD
+- parametric modeling on mobile
+- find the witblox
 
