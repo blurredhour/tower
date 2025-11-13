@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resources/Calculus Made Easy.pdf"
+                "file": "wizard tower/Studying of Mathematics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Calculus Made Easy"
+              "icon": "lucide-file",
+              "title": "Studying of Mathematics"
             }
           }
         ]
@@ -181,14 +183,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wizard tower/Observed Objects.md",
+    "wizard tower/Mathematics Practice.md",
+    "wizard tower/Learning of Computer Assisted Design.md",
+    "wizard tower/Experiments.md",
+    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Learning of LaTex.md",
     "resources/Calculus Made Easy.pdf",
-    "wizard tower/Studying of Mathematics.md",
-    "wizard tower/Observed Objects.md",
-    "wizard tower/Experiments.md",
     "wizard tower/Understanding Analysis - Stephen Abbott.md",
     "resources/Understanding Analysis.pdf",
-    "wizard tower/Learning of Computer Assisted Design.md",
     "resources",
     "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "wizard tower/Ambidexterity.md",

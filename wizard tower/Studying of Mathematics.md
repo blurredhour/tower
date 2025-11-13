@@ -12,3 +12,14 @@ The start of this experiment will be to learn the content of [[Understanding Ana
 Written on 2025-11-11
 
 Interest does indeed remain but [[Understanding Analysis - Stephen Abbott]] has said that an important prerequisite is calculus and the ability to write proofs. For calculus the chosen book is [[Calculus made easy - Silvanus P. Thompson]].
+
+Written on 2025-11-13
+
+A new path has been assigned to self-study mathematics and that is:
+
+- [x] Algebra I - ✅ 2025-11-13
+- [x] Geometry - ✅ 2025-11-13
+- [ ] Algebra II - 
+- [ ] Pre-calculus - 
+- [ ] Calculus - [[Calculus made easy - Silvanus P. Thompson]]
+- [ ] Analysis - [[Understanding Analysis - Stephen Abbott]]

@@ -11,6 +11,10 @@ Most of this document will be used to experiment with Latex.
 
 $$
 
-\int_{1}^{\infty}23
+\int_{1}^{\infty}
 
+$$
+
+$$
+7\cdot2
 $$
