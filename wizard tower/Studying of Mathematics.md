@@ -17,9 +17,9 @@ Written on 2025-11-13
 
 A new path has been assigned to self-study mathematics and that is:
 
-1. Algebra I - 
-2. Geometry - 
-3. Algebra II - 
-4. Pre-calculus - 
-5. Calculus - [[Calculus made easy - Silvanus P. Thompson]]
-6. Analysis - [[Understanding Analysis - Stephen Abbott]]
+- [x] Algebra I - ✅ 2025-11-13
+- [x] Geometry - ✅ 2025-11-13
+- [ ] Algebra II - 
+- [ ] Pre-calculus - 
+- [ ] Calculus - [[Calculus made easy - Silvanus P. Thompson]]
+- [ ] Analysis - [[Understanding Analysis - Stephen Abbott]]
