@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/Studying of Mathematics.md",
+                "file": "wizard tower/Learning of LaTex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Studying of Mathematics"
+              "title": "Learning of LaTex"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Learning of LaTex.md",
     "wizard tower/Experiments.md",
     "resources/Calculus Made Easy.pdf",
-    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Observed Objects.md",
     "wizard tower/Understanding Analysis - Stephen Abbott.md",
     "resources/Understanding Analysis.pdf",
