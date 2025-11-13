@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Experiments"
             }
-          },
-          {
-            "id": "f99ea8b92c7b009b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +181,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f99ea8b92c7b009b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "wizard tower/Experiments.md",
     "resources/Calculus Made Easy.pdf",
