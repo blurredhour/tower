@@ -1,13 +1,13 @@
 Tags: [[list]]
 
-- [ ] 10x50 binos
-- [ ] L adapter
-- [ ] Tripod
-- [ ] Rotring 600
-- [ ] minimal bracelet 
-- [ ] Casio F91W - 1166
-- [ ] electric vernier caliper 
-- [ ] ks1 kbears iem
-- [ ] timex weekender strap
+- [ ] 10x50 binos 3406
+- [ ] L adapter 400
+- [ ] Tripod 1600
+- [ ] Rotring 600 3
+- [ ] minimal bracelet 1
+- [ ] Casio F91W - 1166 2
+- [ ] electric vernier caliper 2
+- [ ] ks1 kbears iem 3
+- [ ] timex weekender strap 1
 
-15166 INR
+19000
