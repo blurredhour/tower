@@ -25,3 +25,4 @@
 - [ ] raspberry pi
 - [ ] jumper wires
 - [ ] electrical tape
+- [ ] 3d printer
