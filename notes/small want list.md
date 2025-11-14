@@ -5,7 +5,7 @@ Tags: [[list]]
 - [ ] Tripod
 - [ ] Rotring 600
 - [ ] minimal bracelet 
-- [ ] Casio F91W 
+- [ ] Casio F91W - 1166
 - [ ] electric vernier caliper 
 - [ ] ks1 kbears iem
 
