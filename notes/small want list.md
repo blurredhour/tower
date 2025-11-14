@@ -10,3 +10,4 @@ Tags: [[list]]
 - [ ] ks1 kbears iem 2750
 - [ ] timex weekender strap 650
 
+14722 INR
