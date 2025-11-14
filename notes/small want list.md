@@ -8,5 +8,6 @@ Tags: [[list]]
 - [ ] Casio F91W - 1166
 - [ ] electric vernier caliper 
 - [ ] ks1 kbears iem
+- [ ] timex weekender strap
 
 15166 INR
