@@ -5,9 +5,8 @@ Tags: [[list]]
 - [ ] Tripod 1600
 - [ ] Rotring 600 2750
 - [ ] minimal bracelet 500
-- [ ] Casio F91W - 1166 2
-- [ ] electric vernier caliper 2
-- [ ] ks1 kbears iem 3
-- [ ] timex weekender strap 1
+- [ ] Casio F91W - 1166 
+- [ ] electric vernier caliper 1500
+- [ ] ks1 kbears iem 2750
+- [ ] timex weekender strap 650
 
-19000
