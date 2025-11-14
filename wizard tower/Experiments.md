@@ -4,3 +4,5 @@
 - [[Learning of Computer Assisted Design]]
 - [[Studying of Mathematics]]
 - [[Improving Charisma]]
+- [[Learning of Electronics]]
+- 
