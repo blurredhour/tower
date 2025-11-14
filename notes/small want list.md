@@ -9,4 +9,4 @@ Tags: [[list]]
 - [ ] electric vernier caliper 
 - [ ] ks1 kbears iem
 
-15000 INR
+15166 INR
