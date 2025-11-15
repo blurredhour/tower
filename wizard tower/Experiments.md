@@ -5,4 +5,9 @@
 - [[Studying of Mathematics]]
 - [[Improving Charisma]]
 - [[Learning of Electronics]]
+
+# References
+
+- [[Calculus Made Easy.pdf]]
+- [[Understanding Analysis.pdf]]
 - 
