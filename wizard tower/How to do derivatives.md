@@ -7,5 +7,5 @@ $$
 \frac{f(x+h)-f(x)}{(x+h)-x}
 $$
 $$
-\frac{f(x+h)-f(x)}
+\frac{f(x+h)-f(x)}{h}
 $$
