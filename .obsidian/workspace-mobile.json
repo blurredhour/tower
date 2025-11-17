@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/Experiments.md",
+                "file": "wizard tower/How to do integrals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experiments"
+              "title": "How to do integrals"
             }
           }
         ]
@@ -160,11 +160,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "notes/rough.md",
-    "wizard tower/Experiments.md",
-    "wizard tower/Studying of Mathematics.md",
-    "wizard tower/Ambidexterity.md",
     "wizard tower/Calculus.md",
+    "wizard tower/How to do integrals.md",
+    "wizard tower/Studying of Mathematics.md",
+    "wizard tower/Experiments.md",
+    "notes/rough.md",
+    "wizard tower/Ambidexterity.md",
     "wizard tower/How to do derivatives.md",
     "notes/big want list.md",
     "notes/small want list.md",
@@ -194,7 +195,6 @@
     "wizard tower/Vector Fields (formerly Grid).md",
     "wizard tower/Learning of Computer Assisted Design.md",
     "resources/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer) 1.pdf",
-    "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
-    "journal/2025-11-10.md"
+    "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf"
   ]
 }
