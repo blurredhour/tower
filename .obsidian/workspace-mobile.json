@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rough.md",
+                "file": "wizard tower/Experiments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rough"
+              "title": "Experiments"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "notes/rough.md",
     "wizard tower/Experiments.md",
     "wizard tower/Studying of Mathematics.md",
     "wizard tower/Ambidexterity.md",
@@ -169,7 +170,6 @@
     "notes/small want list.md",
     "notes/electronics materials list.md",
     "wizard tower/Learning of Electronics.md",
-    "notes/rough.md",
     "notes/TODO.md",
     "notes/consumption list.md",
     "wizard tower/Mathematics Practice.md",
