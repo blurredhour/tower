@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/Studying of Mathematics.md",
+                "file": "wizard tower/Experiments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Studying of Mathematics"
+              "title": "Experiments"
             }
           }
         ]
@@ -160,6 +160,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "wizard tower/How to do derivatives.md",
+    "wizard tower/Calculus.md",
+    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Experiments.md",
     "notes/2025-2030.md",
     "wizard tower/Learning of Electronics.md",
@@ -170,10 +173,7 @@
     "notes/rough.md",
     "notes/TODO.md",
     "wizard tower/How to do integrals.md",
-    "wizard tower/Calculus.md",
-    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Ambidexterity.md",
-    "wizard tower/How to do derivatives.md",
     "notes/small want list.md",
     "notes/electronics materials list.md",
     "wizard tower/Mathematics Practice.md",
