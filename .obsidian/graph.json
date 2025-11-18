@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"wizard tower\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5934289
+      }
+    },
+    {
+      "query": "path:notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 8605160
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.987529640921409,
   "linkDistance": 184,
-  "scale": 0.2240009356480273,
-  "close": false
+  "scale": 0.23881036370833186,
+  "close": true
 }
