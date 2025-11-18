@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wizard tower/How to do integrals.md",
+                "file": "wizard tower/Experiments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to do integrals"
+              "title": "Experiments"
             }
           }
         ]
@@ -160,10 +160,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "wizard tower/Calculus.md",
-    "wizard tower/How to do integrals.md",
-    "wizard tower/Studying of Mathematics.md",
     "wizard tower/Experiments.md",
+    "wizard tower/How to do integrals.md",
+    "wizard tower/Calculus.md",
+    "wizard tower/Studying of Mathematics.md",
     "notes/rough.md",
     "wizard tower/Ambidexterity.md",
     "wizard tower/How to do derivatives.md",
