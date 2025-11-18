@@ -25,14 +25,12 @@
             "id": "d7088f51a10d823b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/rough.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/Calculus Made Easy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "rough"
+              "icon": "lucide-file-text",
+              "title": "Calculus Made Easy"
             }
           }
         ],
@@ -175,19 +173,19 @@
   },
   "active": "d7088f51a10d823b",
   "lastOpenFiles": [
+    "notes/consumption list.md",
+    "notes/big want list.md",
+    "notes/rough.md",
     "notes/TODO.md",
     "wizard tower/Experiments.md",
     "wizard tower/How to do integrals.md",
     "wizard tower/Calculus.md",
     "wizard tower/Studying of Mathematics.md",
-    "notes/rough.md",
     "wizard tower/Ambidexterity.md",
     "wizard tower/How to do derivatives.md",
-    "notes/big want list.md",
     "notes/small want list.md",
     "notes/electronics materials list.md",
     "wizard tower/Learning of Electronics.md",
-    "notes/consumption list.md",
     "wizard tower/Mathematics Practice.md",
     "/wizard tower/Studying of Mathematics.md",
     "/wizard tower/Mathematics Practice.md",
