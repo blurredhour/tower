@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "c4c7cabe82091e82",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c4c7cabe82091e82",
   "lastOpenFiles": [
+    "wizard tower/Ambidexterity.md",
     "notes/things that interest me.md",
     "wizard tower/Experiments.md",
     "notes/Untitled.md",
@@ -171,7 +183,6 @@
     "notes/rough.md",
     "notes/TODO.md",
     "wizard tower/How to do integrals.md",
-    "wizard tower/Ambidexterity.md",
     "notes/electronics materials list.md",
     "wizard tower/Mathematics Practice.md",
     "/wizard tower/Studying of Mathematics.md",
