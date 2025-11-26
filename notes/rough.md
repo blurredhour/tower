@@ -29,4 +29,5 @@
 - parametric modeling on mobile
 - find the witblox
 - prokofiev
+- how to be trader
 
